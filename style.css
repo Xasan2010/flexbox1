@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+max-width: 1220px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    margin: 50px 50px;
+}
+.ota{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+.bola{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+font-size: 50px;
+text-align: center;
+padding: 150px 50px;
+color: white;
+}
